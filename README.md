@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ! Sou a Ana Vitória 👋
 
-- 🔭 Em busca de estágio
+- 🔭 Desenvolvedora Front End
 - 🌱 Estudando HTML, CSS, Javascript e JAVA
 - 😄 Pronouns: Ela/Dela
 
