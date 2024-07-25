@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ! Sou a Ana Vitória 👋
 
-- 🔭 Desenvolvedora Front End
-- 🌱 Estudando HTML, CSS, Javascript e JAVA
+- 🔭 Analisa de Sistemas e Desenvolvedora 
+- 🌱 Tecnologias: HTML, CSS, JavaScript, Java e SQL
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
