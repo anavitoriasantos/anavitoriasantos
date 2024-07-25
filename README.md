@@ -2,7 +2,6 @@
 
 - 🔭 Analisa de Sistemas e Desenvolvedora 
 - 🌱 Tecnologias: HTML, CSS, JavaScript, Java e SQL
-- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/anavitoriasantos">
